@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on design or coding project
 - 📫 How to reach me :
--  Email : mailto:aureliusaudie59@gmail.com 
+-  Email : aureliusaudie59@gmail.com 
 -  LinkedIn : https://www.linkedin.com/in/aurelius-audie-978490226/
 
 <!---
